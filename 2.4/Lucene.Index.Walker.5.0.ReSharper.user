@@ -1,0 +1,231 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="toolStripTextBox1" priority="1" />
+      <Item value="string" priority="11" />
+      <Item value="foreach" priority="5" />
+      <Item value="this" priority="3" />
+      <Item value="new" priority="9" />
+      <Item value="result" priority="6" />
+      <Item value="Fill" priority="0" />
+      <Item value="if" priority="3" />
+      <Item value="field" priority="4" />
+      <Item value="tempDoc" priority="0" />
+      <Item value="doc" priority="1" />
+      <Item value="var" priority="8" />
+      <Item value="TreeNode`0" priority="2" />
+      <Item value="docNode" priority="0" />
+      <Item value="SortedDictionary" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="String`0" priority="0" />
+      <Item value="SortedDictionary&lt;int,string&gt;" priority="1" />
+      <Item value="value" priority="4" />
+      <Item value="Lucene" priority="4" />
+      <Item value="Net" priority="5" />
+      <Item value="Documents" priority="1" />
+      <Item value="Field`0" priority="1" />
+      <Item value="varField" priority="2" />
+      <Item value="document" priority="2" />
+      <Item value="ArgIterator`0" priority="0" />
+      <Item value="_numDocOfFileds" priority="2" />
+      <Item value="fieldName" priority="2" />
+      <Item value="out" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="private" priority="1" />
+      <Item value="listView1" priority="3" />
+      <Item value="i" priority="2" />
+      <Item value="treeView1" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="HashSet" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="line" priority="0" />
+      <Item value="VARIABLE" priority="2" />
+      <Item value="Validate`0" priority="1" />
+      <Item value="listBox1" priority="2" />
+      <Item value="duplicateName" priority="1" />
+      <Item value="Index" priority="0" />
+      <Item value="Search" priority="0" />
+      <Item value="IndexSearcher`0" priority="0" />
+      <Item value="indexSearcher" priority="1" />
+      <Item value="IndexSearcher" priority="0" />
+      <Item value="directory" priority="0" />
+      <Item value="QueryParsers" priority="1" />
+      <Item value="QueryParser`0" priority="1" />
+      <Item value="queryParser" priority="1" />
+      <Item value="QueryParser" priority="0" />
+      <Item value="Analysis" priority="0" />
+      <Item value="WhitespaceAnalyzer`0" priority="0" />
+      <Item value="docs" priority="3" />
+      <Item value="for" priority="0" />
+      <Item value="q" priority="0" />
+      <Item value="QueryParserTokenManager" priority="0" />
+      <Item value="panel1" priority="0" />
+      <Item value="Inspector`0" priority="1" />
+      <Item value="textBox1" priority="0" />
+      <Item value="MS" priority="0" />
+      <Item value="msg" priority="0" />
+      <Item value="Inspector" priority="0" />
+      <Item value="_inspector" priority="0" />
+      <Item value="OK" priority="0" />
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripTextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+      <Item value="IsInterned`0" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="1" />
+      <Item value="Format`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Index.Walker.Form1">
+      <Item value="splitContainer1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitContainer">
+      <Item value="Panel2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitterPanel">
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Index.Walker.Result">
+      <Item value="Dock" priority="0" />
+      <Item value="AppendLine`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNode">
+      <Item value="Tag" priority="1" />
+      <Item value="Nodes" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Net.Documents.Document">
+      <Item value="Fields`0" priority="1" />
+      <Item value="GetFields`0" priority="0" />
+      <Item value="GetField`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeCollection">
+      <Item value="Indexer" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.SortedDictionary`2">
+      <Item value="Indexer" priority="1" />
+      <Item value="TryGetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Net.Documents.Field">
+      <Item value="StringValue`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+ListViewItemCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeView">
+      <Item value="Nodes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.HashSet`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="1" />
+      <Item value="SelectedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Net.Search.IndexSearcher">
+      <Item value="Search`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Net.QueryParsers.QueryParser">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Net.Search.Hits">
+      <Item value="Iterator`0" priority="1" />
+      <Item value="Length`0" priority="1" />
+      <Item value="Doc`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lucene.Index.Walker.Inspector">
+      <Item value="Show`0" priority="1" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="DialogResult" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Program.cs" caret="160" fromTop="7" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.Designer.cs" caret="2748" fromTop="3" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="478" fromTop="9" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Inspector.cs" caret="627" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="3203" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="496" fromTop="23" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="4649" fromTop="12" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="4933" fromTop="18" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="247" fromTop="9" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="778" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="4990" fromTop="2" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="626" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.Designer.cs" caret="2748" fromTop="3" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.Designer.cs" caret="6207" fromTop="3" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="520" fromTop="3" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="1662" fromTop="8" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="2976" fromTop="20" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="2808" fromTop="18" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="1326" fromTop="16" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="4990" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="2629" fromTop="5" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="4990" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="615" fromTop="10" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="488" fromTop="4" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="2965" fromTop="14" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="4990" fromTop="16" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Inspector.cs" caret="400" fromTop="19" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="379" fromTop="14" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="744" fromTop="21" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="478" fromTop="9" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Result.cs" caret="818" fromTop="9" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Inspector.cs" caret="512" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Inspector.cs" caret="627" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Inspector.cs" caret="641" fromTop="11" />
+      <File id="06C7FAAD-4FA4-48F3-B97C-C5B1BAEDF96F/f:Form1.cs" caret="3414" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>D:\Program Files (x86)\NUnit 2.5.4\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
